@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Ridin' on Dreams",
+  "base_artist": "hololive IDOL PROJECT",
+  "createdAt": "2026-02-18T16:03:44.388649Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ridin' on Dreams",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": false,
+      "path": "select/pl_01_Ridin'_on_Dreams_hololive_IDOL_PROJECT.txt"
+    }
+  ]
+}
